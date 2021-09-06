@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  text-align: center;
+  padding-left: 600px;
+  text-decoration: solid;
+}
